@@ -1,0 +1,20 @@
+[
+    {
+        "email": "geraltrivia@geraltrivia.com",
+        "fullName": "Geralt Rivia",
+        "userName": "geraltrivia",
+        "password": 12345678
+    },
+    {
+        "email": "geraltrivia1@geraltrivia1.com",
+        "fullName": "Geralt Rivia",
+        "userName": "geraltrivia1",
+        "password": 12345678
+    },
+    {
+        "email": "geraltrivia1@geraltrivia2.com",
+        "fullName": "Geralt Rivia",
+        "userName": "geraltrivia2",
+        "password": 12345678
+    }
+]
